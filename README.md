@@ -26,7 +26,9 @@ Execute tạo database sv_tnut
 2.Dữ liệu đầu vào 
 
 Họ tên : Lăng Nguyễn Minh Lượng
+
 Sđt: 0982247105
+
 Ngày Tháng Năm sinh: 26-11-2004
 
 3.Nhập sql để tìm xem có những sv nào trùng hoàn toàn ngày/tháng/năm với em?
